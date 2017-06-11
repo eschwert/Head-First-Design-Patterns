@@ -7,4 +7,5 @@ public interface Duck {
 	public void walk2();
 
 
+	public void jump();
 }
